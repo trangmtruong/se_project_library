@@ -262,13 +262,9 @@
   color: #fff;
 }
 
-.card {
-}
-
 .staff__cards {
   max-width: 760px;
-  margin: 69px auto 0;
-  flex-wrap: wrap;
+  margin: 68px auto 0;
   gap: 40px;
   list-style-type: none;
   padding-left: 0;
